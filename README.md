@@ -1,30 +1,25 @@
 # Vue SSR Practise
 
 ## Project setup
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### Build
 
-### Compiles and minifies for production
 ```
+// build serve
+npm run build:serve
+
+// build client
+npm run build:client
+
+// build client and server
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
-### Server
+### Run Server
 
 使用 `nodemon` 监控服务器修改
 
