@@ -1,4 +1,4 @@
-# Vue SSR Practise
+# SSR Practise
 
 ## Project setup
 
